@@ -17,7 +17,7 @@ nav {
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background-color:#6a1b1d; /*Change Color*/
+    background-color:#6a1b1d;
     padding: 10px 20px;
     position: fixed;
     top: 0;
